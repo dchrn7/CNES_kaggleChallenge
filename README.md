@@ -37,7 +37,7 @@ The table below summarizes the performance obtained (mean F1-score metric). The 
 | Model | Public Score | Private Score |
 | :--- | :---: | :---: |
 | Random Forest (Baseline) | 95.0% | - |
-| XGBoost alone | 98.2 % | 98.2% |
+| XGBoost alone | 98.0 % | 98.2% |
 | **Ensemble (Blending)** | **97.7%** | **98.5%** |
 
 ## Installation and Reproduction
